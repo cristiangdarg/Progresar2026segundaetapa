@@ -285,9 +285,9 @@ const CERTIFICADOS = [
         "archivo":  "EscobarXiomaraGisela.pdf"
     },
     {
-        "nombre":  "Espinoda Luna Xiomara",
+        "nombre":  "Espinosa Luna Xiomara",
         "dni":  "49206624",
-        "archivo":  "EspinodaLunaXiomara.pdf"
+        "archivo":  "EspinosaLunaXiomara.pdf"
     },
     {
         "nombre":  "Farias Maximiliano",
