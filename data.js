@@ -565,9 +565,9 @@ const CERTIFICADOS = [
         "archivo":  "MoreAbrilMelani.pdf"
     },
     {
-        "nombre":  "Navarro Salto Victoria Daira Salette",
+        "nombre":  "Navarro Victoria Daira Salette",
         "dni":  "49044049",
-        "archivo":  "NavarroSaltoVictoriaDairaSalette.pdf"
+        "archivo":  "NavarroVictoriaDairaSalette.pdf"
     },
     {
         "nombre":  "Nessi Florencia",
@@ -805,9 +805,9 @@ const CERTIFICADOS = [
         "archivo":  "VillalbaVirginiaBelén.pdf"
     },
     {
-        "nombre":  "Villavicencio Salto Kreren Nahir",
+        "nombre":  "Villavicencio Salto Keren Nahir",
         "dni":  "50410318",
-        "archivo":  "VillavicencioSaltoKrerenNahir.pdf"
+        "archivo":  "VillavicencioSaltoKerenNahir.pdf"
     },
     {
         "nombre":  "Yazmin Rita Daniela Loto",
